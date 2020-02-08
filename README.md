@@ -1,9 +1,6 @@
 # Atom-1.43.0-x64
 My works related to Atom text editor version 1.43.0 for machine x64
 
-# Insomnia
-My works related to Insomnia
-
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
