@@ -4,8 +4,12 @@ My works related to Atom text editor version 1.43.0 for machine x64
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [Atom shortcuts.](#shortcuts)
-4. [GitHub notes.](#github)
+3. [Using `atom` in Command Prompt.](#atom)
+4. [Atom shortcuts.](#shortcuts)
+5. [GitHub notes.](#github)
+
+<a name="atom"></a>
+## 3. Using `atom` in Command Prompt.
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -33,7 +37,7 @@ How to open atom using a “atom .” command in terminal? : https://stackoverfl
 **[ Ctrl ]** + **[ \` ]** : open terminal in Atom after installed terminal package called `platformio-ide-terminal` <br />
 
 <a name="github"></a>
-## 4. GitHub notes.
+## 5 GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Atom-1.43.0-x64.git
