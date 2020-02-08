@@ -19,7 +19,7 @@ Official Insomnia documentation : https://support.insomnia.rest <br />
 
 Stack Overflow question and answer site : https://stackoverflow.com <br />
 
-**_Atom questions and answers by Stack overflow_**
+**_Atom questions and answers by Stack overflow_** <br />
 How to open the terminal in Atom? : https://stackoverflow.com/questions/43013195/how-to-open-the-terminal-in-atom <br />
 How to open atom using a “atom .” command in terminal? : https://stackoverflow.com/questions/37312828/how-to-open-atom-using-a-atom-command-in-terminal <br />
 
