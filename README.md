@@ -4,7 +4,7 @@ My works related to Atom text editor version 1.43.0 for machine x64
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [AtomInsomnia shortcuts.](#shortcuts)
+3. [Atom shortcuts.](#shortcuts)
 4. [GitHub notes.](#github)
 
 <a name="introduction"></a>
