@@ -17,9 +17,19 @@ Atom is a free and open-source text and source code editor for macOS, Linux, and
 Official Atom website : https://atom.io <br />
 Official Insomnia documentation : https://support.insomnia.rest <br />
 
+Stack Overflow question and answer site : https://stackoverflow.com <br />
+
+**_Atom questions and answers by Stack overflow_**
+How to open the terminal in Atom? : https://stackoverflow.com/questions/43013195/how-to-open-the-terminal-in-atom <br />
+
 <a name="shortcuts"></a>
 ## 3. Atom shortcuts.
+
+**_Settings management_** <br />
 **[ Ctrl ]** + **[ , ]** : open Settings menu <br />
+
+**_Terminal management_** <br />
+**[ Ctrl ]** + **[ \` ]** : open terminal in Atom after installed terminal package called `platformio-ide-terminal` <br />
 
 <a name="github"></a>
 ## 4. GitHub notes.
