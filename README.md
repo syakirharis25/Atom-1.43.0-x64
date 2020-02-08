@@ -4,12 +4,9 @@ My works related to Atom text editor version 1.43.0 for machine x64
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [Using `atom` in Command Prompt.](#atom)
-4. [Atom shortcuts.](#shortcuts)
+3. [Atom shortcuts.](#shortcuts)
+4. [Open file using `atom` command in Command Prompt.](#atom)
 5. [GitHub notes.](#github)
-
-<a name="atom"></a>
-## 3. Using `atom` in Command Prompt.
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -36,8 +33,13 @@ How to open atom using a “atom .” command in terminal? : https://stackoverfl
 **_Terminal management_** <br />
 **[ Ctrl ]** + **[ \` ]** : open terminal in Atom after installed terminal package called `platformio-ide-terminal` <br />
 
+<a name="atom"></a>
+## 4. Open file using `atom` command in Command Prompt.
+
+If there is an error saying that `atom is not recognized as an internal or external command` after typing `atom` in the Command Prompt. First press **[ ⊞ ]** + **[ R ]** on your keyboard, then type `SystemPropertiesAdvanced.exe` and press **[ Enter ]** on your keyboard, the `System Properties` will then appear on your monitor screen, then press **[ N ]** on your keyboard, hover your mouse to the text `Path` under User variables for your local machine username, press **[ Tab ]**, then press **[ E ]**, then press **[ Tab ]**, and then press **[ N ]**, then type in the location of your atom bin folder, in this case, `C:\Users\username\AppData\Local\atom\bin` and press **[ Enter ]** and press **[ Enter ]** again to exit from `Edit environment variable` menu, then hover your mouse to the `OK` button on the `Environment Variables` interface and **[ Mouse Right Click ]** on it, then hover your mouse to the `OK` button on the `System Properties` interface and **[ Mouse Right Click ]** on it. You now can use the `atom` command on your Command Prompt to open any file you wish to work with.
+
 <a name="github"></a>
-## 5 GitHub notes.
+## 5. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Atom-1.43.0-x64.git
