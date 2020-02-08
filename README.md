@@ -9,7 +9,7 @@ My works related to Atom text editor version 1.43.0 for machine x64
 
 <a name="introduction"></a>
 ## 1. Introduction.
-<img src="insomnia.jpg" height="200"> 
+<img src="atom.jpg" height="200"> 
 Atom is a free and open-source text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in Node.js, and embedded Git Control, developed by GitHub. Atom is a desktop application built using web technologies. Most of the extending packages have free software licenses and are community-built and maintained. Atom is based on Electron (formerly known as Atom Shell), a framework that enables cross-platform desktop applications using Chromium and Node.js. It is written in CoffeeScript and Less.
 
 <a name="references"></a>
