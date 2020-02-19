@@ -7,6 +7,7 @@ My works related to Atom text editor version 1.43.0 for machine x64
 3. [Atom shortcuts.](#shortcuts)
 4. [Open file using `atom` command in Command Prompt.](#atom)
 5. [GitHub notes.](#github)
+6. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -46,3 +47,15 @@ $ git clone https://github.com/syakirharis25/Atom-1.43.0-x64.git
 $ cd Atom-1.43.0-x64/
 $ git remote -v
 $ git status
+```
+
+<a name="calculation"></a>
+## 6. GitHub repository calculation.
+```
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Markdown                         1              9              0             33
+-------------------------------------------------------------------------------
+```
+Refer to : https://github.com/syakirharis25/cloc
