@@ -28,6 +28,9 @@ How to open atom using a “atom .” command in terminal? : https://stackoverfl
 <a name="shortcuts"></a>
 ## 3. Atom shortcuts.
 
+**_Folder management_** <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ O ]** : open folder from the local machine
+
 **_Settings management_** <br />
 **[ Ctrl ]** + **[ , ]** : open Settings menu <br />
 
