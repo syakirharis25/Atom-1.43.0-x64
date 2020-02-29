@@ -42,6 +42,7 @@ How to open atom using a “atom .” command in terminal? : https://stackoverfl
 
 **_Terminal management_** <br />
 **[ Ctrl ]** + **[ \` ]** : open terminal in Atom after installed terminal package called `platformio-ide-terminal` <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ P ]** : open command palette
 
 <a name="atom"></a>
 ## 4. Open file using `atom` command in Command Prompt.
