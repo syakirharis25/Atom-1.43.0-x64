@@ -35,6 +35,7 @@ How to open atom using a “atom .” command in terminal? : https://stackoverfl
 **_File management_** <br />
 **[ A ]** : adding new file
 **[ Backspace ]** : delete file
+**[ Fn ]** + **[ F2 ]** : rename file
 
 **_Settings management_** <br />
 **[ Ctrl ]** + **[ , ]** : open Settings menu <br />
