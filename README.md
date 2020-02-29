@@ -17,6 +17,7 @@ Atom is a free and open-source text and source code editor for macOS, Linux, and
 <a name="references"></a>
 ## 2. Official references websites.
 Official Atom website : https://atom.io <br />
+Official Atom packages : https://atom.io/packages <br />
 Official Insomnia documentation : https://support.insomnia.rest <br />
 
 Stack Overflow question and answer site : https://stackoverflow.com <br />
