@@ -24,6 +24,7 @@ Stack Overflow question and answer site : https://stackoverflow.com <br />
 
 **_Atom packages_** <br />
 File Icons : https://atom.io/packages/file-icons <br />
+PlatformIO IDE Terminal : https://atom.io/packages/platformio-ide-terminal <br />
 
 **_Atom questions and answers by Stack overflow_** <br />
 How to open the terminal in Atom? : https://stackoverflow.com/questions/43013195/how-to-open-the-terminal-in-atom <br />
