@@ -46,13 +46,13 @@ How to open atom using a “atom .” command in terminal? : https://stackoverfl
 
 **_Terminal management_** <br />
 **[ Ctrl ]** + **[ \` ]** : open terminal in Atom after installed terminal package called `platformio-ide-terminal` <br />
-**[ Ctrl ]** + **[ Shift ]** + **[ P ]** : open command palette
+**[ Ctrl ]** + **[ Shift ]** + **[ P ]** : open command palette <br />
 
 **_Atom runner management (package)_** <br />
-**[ Alt ]** + **[ R ]** : launch the runner for the active window
-**[ Shift ]** + **[ Alt ]** + **[ R ]** : run the currently selected text in the active window
-**[ Ctrl ]** + **[ Shift ]** + **[ C ]** : kill a currently running process
-**[ Esc ]** : close the runner window
+**[ Alt ]** + **[ R ]** : launch the runner for the active window <br />
+**[ Shift ]** + **[ Alt ]** + **[ R ]** : run the currently selected text in the active window <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ C ]** : kill a currently running process <br />
+**[ Esc ]** : close the runner window <br />
 
 <a name="atom"></a>
 ## 4. Open file using `atom` command in Command Prompt.
